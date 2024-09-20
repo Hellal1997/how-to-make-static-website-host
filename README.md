@@ -20,3 +20,6 @@ This project demonstrates how to host a simple static website on Amazon Web Serv
 ### Making the Website Publicly Accessible
 - Adjusted the bucket's permissions to allow public access.
 - Configured object ownership settings and enabled the Access Control List (ACL) to make all objects in the bucket publicly accessible.
+
+
+![dev](https://github.com/Hellal1997/how-to-make-static-website-host/blob/main/devops.png?raw=true)
