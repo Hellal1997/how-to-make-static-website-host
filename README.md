@@ -22,7 +22,7 @@ This project demonstrates how to host a simple static website on Amazon Web Serv
 - Configured object ownership settings and enabled the Access Control List (ACL) to make all objects in the bucket publicly accessible.
 
 
-![dev](https://github.com/Hellal1997/how-to-make-static-website-host/blob/main/devops.png?raw=true)
+![dev](https://github.com/Hellal1997/how-to-make-static-website-host/blob/main/devops%20engineer.png?raw=true)
 
 Further Exploration
 Static Website Hosting on S3:[https://depi-hellal.s3.amazonaws.com/hosted+name/index.html] 
