@@ -23,3 +23,6 @@ This project demonstrates how to host a simple static website on Amazon Web Serv
 
 
 ![dev](https://github.com/Hellal1997/how-to-make-static-website-host/blob/main/devops.png?raw=true)
+
+Further Exploration
+Static Website Hosting on S3:[https://depi-hellal.s3.amazonaws.com/hosted+name/index.html] 
